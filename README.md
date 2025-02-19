@@ -4,4 +4,4 @@
   <img height="50" src="assets/fish.svg">
 </a>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwyll38&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&card_width=400)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwyll38&&theme=cobalt&hide_border=true&hide_progress=true&card_width=400&line_height=50)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwyll38&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&card_width=400)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwyll38&&theme=cobalt&hide_border=true&hide_progress=true&card_width=400&line_height=500)
