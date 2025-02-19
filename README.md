@@ -24,10 +24,6 @@ Esperar os icones do bab
 </a>
 </p>
 
-<p align="center">
-    <img height="50" src="[https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png(https://github-readme-stats.vercel.app/api?username=Pwyll38&theme=cobalt&hide_border=true)"/>
-</p>
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwyll38&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&card_width=300)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwyll38&&theme=cobalt&hide_border=true&hide_progress=true&card_width=300)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:F5A9B8&height=100&section=footer)
