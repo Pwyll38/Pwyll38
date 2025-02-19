@@ -3,3 +3,5 @@
 <a href="">
   <img height="50" src="assets/fish.svg">
 </a>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwyll38)](https://github.com/anuraghazra/github-readme-stats)
