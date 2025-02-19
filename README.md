@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=230&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:F5A9B8&height=230&section=header&text=capsule%20render&fontSize=90)
 <!--
 **Pwyll38/Pwyll38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
