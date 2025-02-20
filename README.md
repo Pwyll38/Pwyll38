@@ -1,19 +1,16 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:F5A9B8&height=230&section=header&text=Pwyll&animation=fadeIn&fontSize=90&fontColor=FFFFFF)
 
-
-Esperar os icones do bab
-
 <p align="center">
-<a href="https://github.com/Pwyll38/CoeQuest">
+<a href="https://github.com/Pwyll38/CoeQuest" style="text-decoration: none">
   <img height="50" src="Assets/fish.png"/>
 </a>
-<a href="https://github.com/Pwyll38/Restaurante-tierlist">
+<a href="https://github.com/Pwyll38/Restaurante-tierlist" style="text-decoration: none">
   <img height="50" src="Assets/restaurant.png"/>
 </a>
-<a href="https://github.com/Pwyll38/GrafosOuDnd">
+<a href="https://github.com/Pwyll38/GrafosOuDnd" style="text-decoration: none">
   <img height="50" src="Assets/dnd.png"/>
 </a>
-<a href="https://github.com/Pwyll38/PhishMod">
+<a href="https://github.com/Pwyll38/PhishMod" style="text-decoration: none">
   <img height="50" src="Assets/mc.png"/>
 </a>
 </p>
