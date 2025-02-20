@@ -15,6 +15,35 @@
 </a>
 </p>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pwyll38&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Pwyll38&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=cobalt&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/packer/packer-original.svg" height="40" alt="packer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webflow/webflow-original.svg" height="40" alt="webflow logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yii/yii-original.svg" height="40" alt="yii logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gulp/gulp-plain.svg" height="40" alt="gulp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="apache logo"  />
+</div>
+
+###
+
+<h3 align="center">!GPT Free since 2024!</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/Pwyll38/Pwyll38/output/snake.svg" alt="Snake animation" />
+
+###
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pwyll38&theme=cobalt&hide_border=true)](https://github.com/anuraghazra/github-readme-stats&card_width=300)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pwyll38&&theme=cobalt&hide_border=true&hide_progress=true&card_width=300)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:5BCEFA,100:F5A9B8&height=100&section=footer)
